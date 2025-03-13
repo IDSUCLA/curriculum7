@@ -57,7 +57,7 @@ Changes that have been made to version 6.0
  - There are anonymized datasets available for the Food Habits, Personality Colors, and Time Use (unformatted) Campaigns. They can be accessed by running the following code:
         
         extra_data('food_ids')
-        extra_data('color_ids')
+        extra_data('colors_ids')
         extra_data('timeuse_ids')
 
 **Unit 1**
