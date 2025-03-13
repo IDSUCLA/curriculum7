@@ -8,7 +8,7 @@ Students will participate in an activity to map out their own network based on a
 
 2. Index cards
 
-3. *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B))
+3. *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B.R))
 
 ###**Vocabulary:**
 [network](../../vocabulary/unit4/#network "a system designed to transfer data from one network access point to one other or more network access points via data switching, transmission lines, and system controls"){ .md-button }
@@ -79,7 +79,7 @@ index cards are included, along with how you would input the data.
 
     **<u>Note:</u>** It is probably best to input the data after class and present the visualization during the next day.
 
-7. Once all data has been input into a spreadsheet, use the code provided in the *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B)) to produce graphs for the class’s social network.
+7. Once all data has been input into a spreadsheet, use the code provided in the *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B.R)) to produce graphs for the class’s social network.
 
     **<u>Note:</u>** The R Script file can be opened and viewed in the “source” pane of RStudio. There are 2 places where the code needs to be edited by the teacher:
 
