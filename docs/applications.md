@@ -35,6 +35,11 @@
 7. [Palmer Penguins](https://idsucla.shinyapps.io/PalmerPenguin/)  
     Authors: James Molyneux and Heidi Bullock
 
+
+
+8. [M&M App](https://uobofz-gilbert-neuner.shinyapps.io/MnMs/)  
+    Authors: Gilbert Neuner
+
     
 
 <style>
