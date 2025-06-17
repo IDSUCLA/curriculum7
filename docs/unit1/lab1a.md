@@ -145,7 +145,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         histogram(~height, data = cdc)
 
-        bargraph(~drive_text, data = cdc)
+        bargraph(~height, data = cdc)
 
         xyplot(weight~height, data = cdc)
 
